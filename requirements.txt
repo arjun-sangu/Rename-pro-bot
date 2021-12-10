@@ -10,4 +10,4 @@ pyrogram==1.0.7
 requests
 psycopg2-binary
 feedparser
-tgcrypt
+tgcrypto
